@@ -1,0 +1,4 @@
+interface:
+  display_name: "Project Coordination Docs"
+  short_description: "Scaffold multi-agent project coordination docs"
+  default_prompt: "Use $project-coordination-docs to scaffold Codex coordination docs for this project."
